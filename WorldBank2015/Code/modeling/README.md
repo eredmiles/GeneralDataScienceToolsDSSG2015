@@ -1,4 +1,4 @@
-#Modeling pipeline
+# Modeling pipeline
 This directory contains the python script for running the entire modeling pipeline.
 
 ## Directory Contents
@@ -20,5 +20,5 @@ This directory contains all the required python script to build and test predict
 **prediction_loop.py** - Script to generate prediction score for different allegation_category type.
 
 
-##Authors 
+## Authors 
 Emily Grace (emily.grace.eg@gmail.com), Ankit Rai (rai5@illinois.edu), and Elissa Redmiles (eredmiles@cs.umd.edu). DSSG2015.
