@@ -16,7 +16,7 @@ To Install from Source Code contained in this directory - please follow the inst
 
 You will run full_pipeline.sh to do EVERYTHING!
 
-- Install Anaconda python (see instructions [here](http://docs.continuum.io/anaconda/install#linux-install)
+- Install Anaconda python see instructions [here](http://docs.continuum.io/anaconda/install#linux-install)
 NOTE: Install Python 2.7 NOT Python 3.X
 - Setup PostgreSQL database:
 	1. sudo apt-get install postgresql postgresql-contrib
